@@ -97,7 +97,7 @@ venv\Scripts\activate       # Windows
 ```bash
 pip install -r requirements.txt
 ```
-5. **Jalankan notebook**
+4. **Jalankan notebook**
 ```bash
 jupyter notebook NetflixShows.ipynb
 ```
